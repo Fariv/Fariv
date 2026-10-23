@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fariv
-- 👀 I’m interested in PHP, JS, Golang.
-- 🌱 I’m currently learning Golang, TS
-- 💞️ I’m looking to collaborate on e-commerce sites, custom CMS or ERP
+- 👀 I’m interested in PHP, JS, Golang, TS.
+- 🌱 I’m an ever learning guy
+- 💞️ I’m looking to collaborate on Dev enhancement product, e-commerce sites, custom CMS or ERP
 - 📫 You may connect with me on [Linkedin](https://www.linkedin.com/in/ashraful-ferdous-190652119/)
 
 <!---
